@@ -17,6 +17,11 @@ Chemical reaction (kinetic) and thermodynamic analysis. ChamCAD utilization on t
 
 <ins>Updates will be breifly noted here.</ins> <br>
 
+<ins>Jan 14th, 2025</ins> <br>
+- Meeting with the team, the context of the research is discussed.
+- Meeting with a PhD student, I was provided deep-level information about the research. 
+
+
 # Future extensions
 
 <pre><ins>There will be no future extentions as this a semester-limited project taken for a class credit.</ins> :  </pre>
