@@ -21,6 +21,9 @@ Chemical reaction (kinetic) and thermodynamic analysis. ChamCAD utilization on t
 - Meeting with the team, the context of the research is discussed.
 - Meeting with a PhD student, I was provided deep-level information about the research. 
 
+<ins>Feb 5th, 2025</ins> <br>
+- Met with the team and discussed the updates.
+
 
 # Future extensions
 
