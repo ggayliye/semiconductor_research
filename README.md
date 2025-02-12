@@ -12,6 +12,11 @@ Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Ac
 GeO₂ (germanium dioxide) growth on TiO₂ (titanium dioxide) substrate. <br>
 Chemical reaction (kinetic) and thermodynamic analysis. ChamCAD utilization on the modeling.
 
+Our work extends the growth of r-GeO2 using metal-organic chemical vapor 
+deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as the precursor.
+
+
+
 
 # Progress Notes
 
@@ -51,4 +56,21 @@ Have a wonderful day!
 
 
 ## Useful Abbreviations
-- N/A
+- Å : Angstrom, a unit of length. 10^−10 meter. 
+- BFOM: "Baliga figure of merit" refers to a metric used in power electronics to evaluate the 
+potential of a semiconductor material for high-power applications, specifically considering 
+its ability to handle high breakdown voltage while maintaining low on-resistance, essentially 
+indicating how effectively a material can minimize conduction losses in a power device; 
+a higher Baliga figure of merit signifies better performance in this regard. 
+- Epitaxial Layer: A crystalline film that is deposited on a crystalline substrate.
+- MOCVD: Metal-organic chemical vapor deposition. 
+- SCCM : Standard cubic centimeter per minute. 1 SCCM = 1 cm³|STP/min (STP means tandard temperature 
+and pressure (STP) or standard conditions for temperature and pressure ). One example of standard conditions 
+for the calculation of SCCM is Tn = 0°C (273.15 K), and pn = 1.01 bar (14.72 psia) and a unity 
+compressibility factor Zn  = 1 (i.e., an ideal gas is used for the definition of SCCM).<br>
+- Shroud gas : Shroud gas refers to hot combustion gases that are directed onto turbine blades 
+by shroud blocks. Shroud blocks are essential for optimal turbine performance. 
+- Susceptor rotation:  the turning of a susceptor, which is a surface that can be used in 
+semiconductor processing or microwave cooking. Susceptor rotation can affect the quality 
+of the material being processed. 
+- Torr: A unit of pressure used in measuring partial vacuums. 1 Torr= 133.32 pascals. 1 atm = 101. 325 kPa.
