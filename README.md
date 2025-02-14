@@ -62,6 +62,9 @@ potential of a semiconductor material for high-power applications, specifically 
 its ability to handle high breakdown voltage while maintaining low on-resistance, essentially 
 indicating how effectively a material can minimize conduction losses in a power device; 
 a higher Baliga figure of merit signifies better performance in this regard. 
+- BPSD : the rate at which a fluid, typically oil, is produced or processed in a refinery, 
+measured in "barrels per stream day" - essentially indicating the volume of oil that flows through a 
+refining unit over a 24-hour period. 
 - Epitaxial Layer: A crystalline film that is deposited on a crystalline substrate.
 - MOCVD: Metal-organic chemical vapor deposition. 
 - SCCM : Standard cubic centimeter per minute. 1 SCCM = 1 cm³|STP/min (STP means tandard temperature 
