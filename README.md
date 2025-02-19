@@ -29,6 +29,9 @@ deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as
 <ins>Feb 5th, 2025</ins> <br>
 - Met with the team and discussed the updates.
 
+<ins>Feb 19th, 2025</ins> <br>
+- Reactor Volume: 967.72 cm³= 967.72 x10^-6 m³
+
 
 # Future extensions
 
