@@ -15,9 +15,6 @@ Chemical reaction (kinetic) and thermodynamic analysis. ChamCAD utilization on t
 Our work extends the growth of r-GeO2 using metal-organic chemical vapor 
 deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as the precursor.
 
-
-
-
 # Progress Notes
 
 <ins>Updates will be breifly noted here.</ins> <br>
