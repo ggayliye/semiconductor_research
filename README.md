@@ -5,7 +5,7 @@ Organization: The University of Utah <br>
 Course: ECE6950 - Research Project, ECE Department, The University of Utah<br>
 GitHub IDs: ggayliye <br>
 Repo: https://github.com/ggayliye/semiconductor_research <br>
-Date: By 29-April-2025 (Time of when submission is due/will be ready to be evaluated)<br>
+Date: By 20-Dec-2025 (Time of when submission is due/will be ready to be evaluated)<br>
 Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Academic Coursework.
 
 ## Overview of the project
@@ -62,8 +62,6 @@ deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as
 ![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/18.jpg)
 ![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/19.jpg)
 ![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/20.jpg)
-
-
 
 # Future extensions
 
