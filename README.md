@@ -33,6 +33,29 @@ deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as
 - Reactor Volume: 967.72 cm³= 967.72 x10^-6 m³
 
 
+# Equilibrium Partial Pressures (Calculated)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/2.fig2_self.jpg)
+
+# Equilibrium Partial Pressures (Calculated vs Expected) 
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/1.fig2.jpg)
+
+# Equilibrium Partial Pressures of The Gaseous Species. Growth of Ga2O3 (ΔPGa2O3)at 1000 1C with a fixed GaCl
+# Inital Partial Pressure of 5.0 x 10^-4 atm and at Fo of 0.0(inert carrier gas).
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/4.Fig3.jpg)
+
+# Equations:
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/5.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/6.totalPressure.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/7.Ga2O3formationBal.jpg)
+
+# chemCAD Schematic
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/10.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/11.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/12.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/13.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/14.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/15.jpg)
+
 # Future extensions
 
 <pre><ins>There will be no future extentions as this a semester-limited project taken for a class credit.</ins> :  </pre>
@@ -55,8 +78,9 @@ Have a wonderful day!
 
 # References:
 1. Imteaz Rahaman, Bobby G. Duersch, Hunter D. Ellis, Michael A. Scarpulla, Kai Fu; Epitaxial growth of rutile GeO2 via MOCVD. Appl. Phys. Lett. 2 September 2024; 125 (10): 102103.. <br>
-
-
+2. Nomura, Kazushiro, et al. “Thermodynamic study of β-ga2o3 growth by halide vapor phase epitaxy.” Journal of Crystal Growth, vol. 405, Nov. 2014, pp. 19–22, https://doi.org/10.1016/j.jcrysgro.2014.06.051
+3. M.W. Chase Jr. (Ed.), NIST-JANAF Thermochemical Tables, fourth ed. The American Chemical Society and the American Institute of Physics for the National Institute of Standards and Technology, Gaithersburg, 1998.
+4. L.V. Gurvich, I.V. Veyts, C.B. Alcock (Eds.), Thermodynamic Properties of Individual Substances, vol. 3, USSR Academy of Sciences, Institute for High Temperatures and State Institute of Applied Chemistry in cooperation with the National Standard Reference Data Service of the U.S.S.R., Moscow, 1994.
 
 ## Useful Abbreviations
 - Å : Angstrom, a unit of length. 10^−10 meter. 
