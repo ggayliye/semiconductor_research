@@ -56,6 +56,15 @@ deposition (MOCVD) on an r-TiO2 (001) substrate, utilizing tetraethyl germane as
 ![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/14.jpg)
 ![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/15.jpg)
 
+# Cleanroom 
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/16.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/17.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/18.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/19.jpg)
+![alt text](https://github.com/ggayliye/semiconductor_research/blob/main/.mat/20.jpg)
+
+
+
 # Future extensions
 
 <pre><ins>There will be no future extentions as this a semester-limited project taken for a class credit.</ins> :  </pre>
